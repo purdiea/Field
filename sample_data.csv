@@ -1,10 +1,10 @@
 name,parent,value
 textteam,vols,
 black,textteam,10
-white,textteam,30
+white,textteam,8000
 red,textteam,5
 orange,textteam,1
 black,support,400
-white,support,6000
+white,support,100000
 support,vols,
 vols,,
