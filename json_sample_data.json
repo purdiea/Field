@@ -1,8 +1,10 @@
 {
     "name": "Vols",
+    "value": "",
     "children": [
                {
                 "name": "Text Team",
+                 "value": "",
                 "children": [{
                     "name": "White >35",
                     "category": "Product Design",
@@ -14,6 +16,7 @@
                 }]
             }, {
                 "name": "Support Corps",
+                 "value": "",
                 "children": [{
                     "name": "White <35",
                     "category": "Tabletop Games",
@@ -33,6 +36,7 @@
                 }]
             }, {
                 "name": "WOCAC",
+                 "value": "",
                 "children": [{
                     "name": "White >35",
                     "category": "Gaming Hardware",
