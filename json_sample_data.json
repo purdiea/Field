@@ -1,6 +1,4 @@
-{
-    "name": "vols",
-    "children": [
+
         {
             "name": "vols",
             "children": [
@@ -169,5 +167,3 @@
                 }
             ]
         }
-    ]
-}
