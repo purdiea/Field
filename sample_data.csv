@@ -1,9 +1,10 @@
 name,parent,value
-textteam,,
+textteam,vols,
 black,textteam,10
 white,textteam,30
 red,textteam,5
 orange,textteam,1
 black,support,40
 white,support,10
-support,,
+support,vols,
+vols,,
