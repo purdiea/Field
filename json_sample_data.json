@@ -1,8 +1,11 @@
-       {
+{
+    "name": "fake_level",
+    "children": [
+        {
             "name": "vols",
             "children": [
                 {
-                    "name": "petition creator",
+                    "name": "Petition Creator",
                     "children": [
                         {
                             "name": "poc <35",
@@ -27,7 +30,7 @@
                     ]
                 },
                 {
-                    "name": "program alumni",
+                    "name": "Program Alumni",
                     "children": [
                         {
                             "name": "poc <35",
@@ -52,7 +55,7 @@
                     ]
                 },
                 {
-                    "name": "support corps",
+                    "name": "Support Corps",
                     "children": [
                         {
                             "name": "unmatched",
@@ -69,7 +72,7 @@
                     ]
                 },
                 {
-                    "name": "text team",
+                    "name": "Text Team",
                     "children": [
                         {
                             "name": "poc <35",
@@ -94,7 +97,7 @@
                     ]
                 },
                 {
-                    "name": "training corps",
+                    "name": "Training Corps",
                     "children": [
                         {
                             "name": "poc <35",
@@ -119,7 +122,7 @@
                     ]
                 },
                 {
-                    "name": "women of color ac",
+                    "name": "Women of Color AC",
                     "children": [
                         {
                             "name": "poc <35",
@@ -141,3 +144,6 @@
                 }
             ]
         }
+    ]
+}
+
