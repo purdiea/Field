@@ -1,32 +1,6 @@
-
-        {
+       {
             "name": "vols",
             "children": [
-                {
-                    "name": "event host",
-                    "children": [
-                        {
-                            "name": "poc <35",
-                            "size": "94"
-                        },
-                        {
-                            "name": "poc >=35",
-                            "size": "309"
-                        },
-                        {
-                            "name": "unmatched",
-                            "size": "1696"
-                        },
-                        {
-                            "name": "white <35",
-                            "size": "404"
-                        },
-                        {
-                            "name": "white >=35",
-                            "size": "3948"
-                        }
-                    ]
-                },
                 {
                     "name": "petition creator",
                     "children": [
