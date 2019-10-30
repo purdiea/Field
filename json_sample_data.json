@@ -1,7 +1,4 @@
 {
-    "name": "fake_level",
-    "children": [
-        {
             "name": "vols",
             "children": [
                 {
@@ -144,6 +141,5 @@
                 }
             ]
         }
-    ]
-}
+
 
